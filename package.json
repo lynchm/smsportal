@@ -1,0 +1,19 @@
+{
+  "name": "smsportal-test",
+  "version": "1.0.0",
+  "description": "sms portal send sms api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynchm/smsportal.git"
+  },
+  "author": "Lynch Machabango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lynchm/smsportal/issues"
+  },
+  "homepage": "https://github.com/lynchm/smsportal#readme"
+}
